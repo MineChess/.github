@@ -16,5 +16,5 @@ This project is a school assignment that implements a **Minecraft-Themed Chess G
 - **HTML/CSS**: For creating a Minecraft-themed visual layout of the chessboard and pieces.
 
 
-## How to play
+## Where to play
 - https://minechess.github.io/FrontEnd/
