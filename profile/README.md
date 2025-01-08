@@ -17,4 +17,5 @@ This project is a school assignment that implements a **Minecraft-Themed Chess G
 
 
 ## Where to play
-- https://minechess.github.io/FrontEnd/
+- ~~https://minechess.github.io/FrontEnd/~~
+- _The game is down until further notice_
